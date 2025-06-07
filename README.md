@@ -1,2 +1,2 @@
-# ai-pokemon-tourney
-Simulate Pokémon tournaments using AI.
+# Pokémon Tournament Simulator 
+Simulate Pokémon tournaments.
